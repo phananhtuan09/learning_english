@@ -9,6 +9,8 @@
 * [Talking about the present (Nói về hiện tại)](study4-ngu-phap/talking-about-the-present-noi-ve-hien-tai/README.md)
   * [Present simple tense (Thì hiện tại đơn)](study4-ngu-phap/talking-about-the-present-noi-ve-hien-tai/present-simple-tense-thi-hien-tai-don.md)
   * [Present continuous (Thì hiện tại tiếp diễn)](study4-ngu-phap/talking-about-the-present-noi-ve-hien-tai/present-continuous-thi-hien-tai-tiep-dien.md)
+* [Talking about the past (Nói về quá khứ)](study4-ngu-phap/talking-about-the-past-noi-ve-qua-khu/README.md)
+  * [Past simple (Thì quá khứ đơn)](study4-ngu-phap/talking-about-the-past-noi-ve-qua-khu/past-simple-thi-qua-khu-don.md)
 
 ## \[STUDY4] Phát âm và giao tiếp
 
