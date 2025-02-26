@@ -12,6 +12,10 @@
 * [Talking about the past (Nói về quá khứ)](study4-ngu-phap/talking-about-the-past-noi-ve-qua-khu/README.md)
   * [Past simple (Thì quá khứ đơn)](study4-ngu-phap/talking-about-the-past-noi-ve-qua-khu/past-simple-thi-qua-khu-don.md)
   * [ Past continuous (Thì quá khứ tiếp diễn)](study4-ngu-phap/talking-about-the-past-noi-ve-qua-khu/past-continuous-thi-qua-khu-tiep-dien.md)
+  * [Present perfect (Thì hiện tại hoàn thành)](study4-ngu-phap/talking-about-the-past-noi-ve-qua-khu/present-perfect-thi-hien-tai-hoan-thanh.md)
+  * [Present perfect continuous (Thì hiện tại hoàn thành tiếp diễn)](study4-ngu-phap/talking-about-the-past-noi-ve-qua-khu/present-perfect-continuous-thi-hien-tai-hoan-thanh-tiep-dien.md)
+  * [Past perfect (Thì quá khứ hoàn thành)](study4-ngu-phap/talking-about-the-past-noi-ve-qua-khu/past-perfect-thi-qua-khu-hoan-thanh.md)
+  * [Past perfect continuous (Thì quá khứ hoàn thành tiếp diễn)](study4-ngu-phap/talking-about-the-past-noi-ve-qua-khu/past-perfect-continuous-thi-qua-khu-hoan-thanh-tiep-dien.md)
 
 ## \[STUDY4] Phát âm và giao tiếp
 
