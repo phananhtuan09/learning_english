@@ -11,6 +11,7 @@
   * [Present continuous (Thì hiện tại tiếp diễn)](study4-ngu-phap/talking-about-the-present-noi-ve-hien-tai/present-continuous-thi-hien-tai-tiep-dien.md)
 * [Talking about the past (Nói về quá khứ)](study4-ngu-phap/talking-about-the-past-noi-ve-qua-khu/README.md)
   * [Past simple (Thì quá khứ đơn)](study4-ngu-phap/talking-about-the-past-noi-ve-qua-khu/past-simple-thi-qua-khu-don.md)
+  * [ Past continuous (Thì quá khứ tiếp diễn)](study4-ngu-phap/talking-about-the-past-noi-ve-qua-khu/past-continuous-thi-qua-khu-tiep-dien.md)
 
 ## \[STUDY4] Phát âm và giao tiếp
 
