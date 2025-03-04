@@ -24,3 +24,4 @@
   * [Cách phát âm schwa /ə/](study4-phat-am-va-giao-tiep/unit-1-nhung-am-co-ban-trong-tieng-anh/cach-phat-am-schwa.md)
   * [Cách phát âm 'long a' /eɪ/](study4-phat-am-va-giao-tiep/unit-1-nhung-am-co-ban-trong-tieng-anh/cach-phat-am-long-a-e.md)
   * [Cách phát âm 'short a' /æ/](study4-phat-am-va-giao-tiep/unit-1-nhung-am-co-ban-trong-tieng-anh/cach-phat-am-short-a-ae.md)
+  * [Cách phát âm 'long e' /i/](study4-phat-am-va-giao-tiep/unit-1-nhung-am-co-ban-trong-tieng-anh/cach-phat-am-long-e-i.md)
