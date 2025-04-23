@@ -24,6 +24,7 @@
 * [To be, to have, to do (là / có / làm)](study4-ngu-phap/to-be-to-have-to-do-la-co-lam/README.md)
   * [To do, to have, to be in present simple (To do, to have, to be: thì hiện tại)](study4-ngu-phap/to-be-to-have-to-do-la-co-lam/to-do-to-have-to-be-in-present-simple-to-do-to-have-to-be-thi-hien-tai.md)
   * [To do, to have, to be trong câu hỏi và phủ định](study4-ngu-phap/to-be-to-have-to-do-la-co-lam/to-do-to-have-to-be-trong-cau-hoi-va-phu-dinh.md)
+  * [To be, to have, to do ở thì quá khứ](study4-ngu-phap/to-be-to-have-to-do-la-co-lam/to-be-to-have-to-do-o-thi-qua-khu.md)
 
 ## \[STUDY4] Phát âm và giao tiếp
 
