@@ -21,7 +21,9 @@
   * [Future perfect (Thì tương lai hoàn thành)](study4-ngu-phap/talking-about-the-future-noi-ve-tuong-lai/future-perfect-thi-tuong-lai-hoan-thanh.md)
   * [Future continuous (Thì tương lai tiếp diễn)](study4-ngu-phap/talking-about-the-future-noi-ve-tuong-lai/future-continuous-thi-tuong-lai-tiep-dien.md)
   * [Future perfect continuous (Thì tương lai hoàn thành tiếp diễn)](study4-ngu-phap/talking-about-the-future-noi-ve-tuong-lai/future-perfect-continuous-thi-tuong-lai-hoan-thanh-tiep-dien.md)
-* [To do, to have, to be in present simple (To do, to have, to be: thì hiện tại)](study4-ngu-phap/to-do-to-have-to-be-in-present-simple-to-do-to-have-to-be-thi-hien-tai.md)
+* [To be, to have, to do (là / có / làm)](study4-ngu-phap/to-be-to-have-to-do-la-co-lam/README.md)
+  * [To do, to have, to be in present simple (To do, to have, to be: thì hiện tại)](study4-ngu-phap/to-be-to-have-to-do-la-co-lam/to-do-to-have-to-be-in-present-simple-to-do-to-have-to-be-thi-hien-tai.md)
+  * [To do, to have, to be trong câu hỏi và phủ định](study4-ngu-phap/to-be-to-have-to-do-la-co-lam/to-do-to-have-to-be-trong-cau-hoi-va-phu-dinh.md)
 
 ## \[STUDY4] Phát âm và giao tiếp
 
