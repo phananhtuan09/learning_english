@@ -36,3 +36,4 @@
   * [Cách phát âm 'long e' /i/](study4-phat-am-va-giao-tiep/unit-1-nhung-am-co-ban-trong-tieng-anh/cach-phat-am-long-e-i.md)
   * [Cách phát âm 'short e' /ɛ/](study4-phat-am-va-giao-tiep/unit-1-nhung-am-co-ban-trong-tieng-anh/cach-phat-am-short-e.md)
   * [Cách phát âm 'long i' /ɑɪ/](study4-phat-am-va-giao-tiep/unit-1-nhung-am-co-ban-trong-tieng-anh/cach-phat-am-long-i.md)
+  * [Cách phát âm 'short i' /ɪ/](study4-phat-am-va-giao-tiep/unit-1-nhung-am-co-ban-trong-tieng-anh/cach-phat-am-short-i.md)
